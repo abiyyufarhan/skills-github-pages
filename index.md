@@ -1,2 +1,2 @@
-# Welcome to my personal blog
+title: Welcome to my personal blog
 First Line
